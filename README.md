@@ -11,8 +11,13 @@ out_dir = './imgs/output'
 **python3 Cartoon.py**
 
 # Example
+
+## Input
+![](/imgs/input/1.jpg)
+
+## Output
 ![](/imgs/output/1_cartoon.jpg)
 
-![](/imgs/output/Sherlock Holmes_cartoon.jpg)
+
 
 Thats it...!

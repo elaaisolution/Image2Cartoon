@@ -12,6 +12,7 @@ out_dir = './imgs/output'
 
 # Example
 ![](/imgs/output/1_cartoon.jpg)
+
 ![](/imgs/output/Sherlock Holmes _cartoon.jpg)
 
 Thats it...!
